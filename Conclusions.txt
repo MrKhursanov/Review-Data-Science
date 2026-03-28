@@ -1,0 +1,3 @@
+After analyzing, and predicting two csv files, I learnt that firstly, we have to analyze the dataset,
+then it gets easy to choose methods or models to use.
+
